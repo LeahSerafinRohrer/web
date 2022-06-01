@@ -1,4 +1,4 @@
-baseURL = "localhost"
+baseURL = ""
 title   = "Serafin Rohrer"
 languageCode = "en-us"
 theme = "hello-friend-ng"
