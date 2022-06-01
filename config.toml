@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "I dint't do it, I swear ;-;"
+  homeSubtitle = "I didn't do it, I swear ;-;"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -111,7 +111,7 @@ disableHugoGeneratorInject = false
   #
   [params.footer]
     trademark = true
-    rss = true
+    rss = false
     copyright = true
     author = true
 
@@ -128,7 +128,7 @@ disableHugoGeneratorInject = false
 
   [params.logo]
     logoMark     = ">"
-    logoText     = "$ cd /home/glider"
+    logoText     = "$ sudo rm -rf"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
@@ -190,10 +190,10 @@ disableHugoGeneratorInject = false
 [menu]
   [[menu.main]]
     identifier = "about"
-    name       = "About"
+    name       = "Will to live."
     url        = "about/"
   [[menu.main]]
     identifier = "posts"
-    name       = "stuff"
+    name       = "Stuff."
     url        = "posts/"
 
