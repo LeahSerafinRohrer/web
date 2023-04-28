@@ -1,8 +1,8 @@
-#[[redirects]]
-#  from = "https://www.serafinrohrer.com/"
-#  to = "https://leahserafinrohrer.com/"
-#  status = 301
-#  force = true 
+[[redirects]]
+  from = "https://www.serafinrohrer.com/"
+  to = "https://leahserafinrohrer.com/"
+  status = 301
+  force = true 
 [[redirects]]
   from = "/posts"
   to = "https://leahserafinrohrer.com/"
