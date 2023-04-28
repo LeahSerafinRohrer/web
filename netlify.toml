@@ -1,5 +1,20 @@
+#[[redirects]]
+#  from = "https://www.serafinrohrer.com/"
+#  to = "https://leahserafinrohrer.com/"
+#  status = 301
+#  force = true 
 [[redirects]]
-  from = "https://www.serafinrohrer.com/"
+  from = "/posts"
+  to = "https://leahserafinrohrer.com/"
+  status = 301
+  force = true 
+[[redirects]]
+  from = "/about/me"
+  to = "https://leahserafinrohrer.com/"
+  status = 301
+  force = true 
+[[redirects]]
+  from = "/about"
   to = "https://leahserafinrohrer.com/"
   status = 301
   force = true 
